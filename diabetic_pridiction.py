@@ -34,7 +34,7 @@ model, accuracy = train_model()
 
 # UI layout
 st.set_page_config(page_title="Diabetes Predictor", layout="centered")
-st.title("🩺Venkat Designed Diabetes Prediction App")
+st.title("🩺chetan Designed Diabetes Prediction App")
 st.markdown("Enter the patient's health information below:")
 
 # Input fields
